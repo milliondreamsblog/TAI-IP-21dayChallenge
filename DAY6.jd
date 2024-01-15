@@ -1,0 +1,12 @@
+function CalculateSum(num1, num2) {
+    let sum = num1 + num2;
+    return sum;
+}
+
+
+console.log(CalculateSum(5, 6));
+console.log(CalculateSum(500, 6));
+
+console.log(CalculateSum(500000, 6000000));
+console.log(CalculateSum(524242, 6242));
+
